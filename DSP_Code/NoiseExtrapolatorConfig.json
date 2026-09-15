@@ -1,0 +1,57 @@
+{
+    "name": "customseed",
+    "som": "seed",
+    "components": {
+        "knob1": {
+            "component": "AnalogControl",
+            "pin": 15
+    },
+        "knob2": {
+            "component": "AnalogControl",
+            "pin": 17
+	},
+        "knob3": {
+            "component": "AnalogControl",
+            "pin": 19
+	},
+        "knob4": {
+            "component": "AnalogControl",
+            "pin": 21
+    },
+        "knob5": {
+            "component": "AnalogControl",
+            "pin": 23
+    },
+        "switch1": {
+            "component": "Switch",
+            "pin": 25
+    },
+        "led1": {
+            "component": "Led",
+            "pin": 1
+    },
+        "led2": {
+            "component": "Led",
+            "pin": 4
+    },
+        "led3": {
+            "component": "Led",
+            "pin": 5
+    },
+        "led4": {
+            "component": "Led",
+            "pin": 6
+    },
+        "led5": {
+            "component": "Led",
+            "pin": 7
+    },
+        "led6": {
+            "component": "Led",
+            "pin": 8
+    }
+
+        
+    }
+
+}
